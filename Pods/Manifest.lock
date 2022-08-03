@@ -1,0 +1,20 @@
+PODS:
+  - SocureDeviceRisk (1.1.0):
+    - TrustKit
+  - TrustKit (2.0.0)
+
+DEPENDENCIES:
+  - SocureDeviceRisk
+
+SPEC REPOS:
+  trunk:
+    - SocureDeviceRisk
+    - TrustKit
+
+SPEC CHECKSUMS:
+  SocureDeviceRisk: 62cfc83d5ddd3467f774bbf1a5346bd8eadd1347
+  TrustKit: 610b8c71c07914756dd74c380040a3408a747798
+
+PODFILE CHECKSUM: fbb2105771083513d393cc37a0ba86eb720e4fbe
+
+COCOAPODS: 1.11.3
